@@ -19,7 +19,8 @@
       <li id="contacto"><a href="video-list.html">宠物社区</a></li>
     </ol>
     <div class="trabajos-realizados">
-      <p><a href="pet_list.html"></a></p>
+      <a href="pet_list.html"></a>
+	  <p></p>
     </div>
     <div class="cont-trabajos" >
       <div style="float:left; padding:0"> ﻿
@@ -29,7 +30,7 @@
                 <li><a href="#">家长关注：1025</a></li>
                 <li>9LB</li>
               </ul>
-              <h4>蓝氏LEGENDSANDY 牛肉金枪鱼全犬粮英国贵族天然粮</h4>
+              <h4>柴犬</h4>
             </div>
           <div class="flash">
               <div id="verano"> 
@@ -49,7 +50,7 @@
                 <li><a href="#">家长关注：187</a></li>
                 <li>80G</li>
               </ul>
-              <h4>玛鲁哈 纯缶 金枪鱼＋丁香鱼（浅蓝）</h4>
+              <h4>荷兰兔</h4>
             </div>
             <div class="flash">
               <div id="maldini">
@@ -68,7 +69,7 @@
                 <li><a href="#">关注家长：1869  </a></li>
                 <li>30/支</li>
               </ul>
-              <h4>美国绿的洁齿骨 小号</h4>
+              <h4>哈士奇</h4>
             </div>
 			
             <div class="flash">
@@ -89,7 +90,7 @@
               <li><a href="#">关注家长：4727  </a></li>
               <li>16LB </li>
             </ul>
-            <h4>美国原装妙多乐全能猫粮</h4>
+            <h4>中华田园犬</h4>
           </div>
 
           <div class="flash">
@@ -110,7 +111,7 @@
               <li><a href="#">关注家长：899  </a></li>
               <li>10LB（冰川）</li>
             </ul>
-            <h4>美国雪山豌豆鸭肉全猫粮）</h4>
+            <h4>金鱼</h4>
           </div>
           <div class="flash">
             <div id="alegra">
@@ -130,7 +131,7 @@
               <li><a href="#">关注家长：561  </a></li>
               <li>6.8kg/15LB</li>
             </ul>
-            <h4>美国凌采露华成犬犬粮</h4>
+            <h4>仓鼠</h4>
           </div>
           <div class="flash">
             <div id="rico">
@@ -150,7 +151,7 @@
               <li><a href="#">关注家长：289  </a></li>
               <li>25LB/11.5kg</li>
             </ul>
-            <h4>美国雪山有机鸡肉配方全犬粮</h4>
+            <h4>相思雀</h4>
           </div>
           <div class="flash">
             <div id="erotia">
@@ -170,7 +171,7 @@
               <li><a href="#">关注家长：337  </a></li>
               <li>10LB</li>
             </ul>
-            <h4>鸭肉火鸡三文鱼成猫</h4>
+            <h4>猫</h4>
           </div>
           <div class="flash">
             <div id="campus">
@@ -191,7 +192,7 @@
   <p><strong>© 2010 保留一切权利</strong></p>
   <p> <a href="#">宠物网站</a> | <a href="#">广告业务</a> | <a href="#">联系我们</a> | <a href="#">客服中心 </a>
   <a href="#">站点地图 </a> | <a href="#">版权所有</a> </p>
-  <p>合作伙伴 - <a href="#">友情1</a> <a href="#">友情2</a> <a href="#">友情3</a> <a href="#">友情5</a></p>
+  <p>合作伙伴 - <a href="#">雷斌</a><a href="#">毛逸雯</a> <a href="#">聂明辉</a> <a href="#">宗永军</a> <a href="#">王集锋</a><a href="#">黄永琪</a><a href="#">李志炜</a><a href="#">熊唯靖</a></p>
   
  
 </div>
